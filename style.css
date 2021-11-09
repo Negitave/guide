@@ -6,3 +6,8 @@ body {
 body p1 {
   color: orange;
 }
+
+a {
+  color: red;
+  margin-bottom: 25px;
+}
