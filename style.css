@@ -7,3 +7,8 @@ body h1 {
   margin-bottom: 30px;
   color: rgb(red, blue, green);
 }
+
+body a {
+  margin-bottom: 30px;
+  color: rgb(red, blue, green);
+}
