@@ -3,11 +3,7 @@ body {
   color: white;
 }
 
-body p1 {
-  color: orange;
-}
-
 body h1 {
   margin-bottom: 30px;
-  color: yellow;
+  color: rgb(red, blue, green);
 }
